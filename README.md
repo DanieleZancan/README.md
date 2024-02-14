@@ -1,16 +1,21 @@
-### Hi there 👋
+# Oiee! Me chamo Daniele Zancan 😃
+## Bem vindo ao meu perfil GitHub! 
 
-<!--
-**DanieleZancan/DanieleZancan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho aos finais de semana com revenda de 🧊;
+- 🔎 Estou procurando minha 1ª vaga na área de tecnologia;
+- 🌱 Fazendo Bacharelado em Engenharia de Software na Universidade Cesumar com formação prevista para 12/2025;
+- 🌱 Estudando inglês na plataforma Full English de segunda á quinta;
+- 🌱 Estudando 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30"/>
+           na plataforma Coursera com os professores do ITA ✈️;
+- 🌱 Estudando 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" height="30"/>
+          com os professores do Senai/SP;
+- 👩 Pronomes: Ela/dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <div>
+<a href="https://github.com/danielezancan">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniele&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielezancan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
