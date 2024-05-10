@@ -11,7 +11,7 @@
            na plataforma Coursera com os professores do ITA ✈️;
 - 🌱 Estudando 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" height="30"/>
-          com os professores do Senai/SP;
+          com os professore da Data Science Academy;
 - 👩 Pronomes: Ela/dela
 
 - <div>
