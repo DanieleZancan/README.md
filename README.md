@@ -1,5 +1,6 @@
 # Oiee! Me chamo Daniele Zancan 😃
 ## Bem vindo ao meu perfil GitHub! 
+<img src=""C:\Users\55189\Downloads\Hello World, Eu sou a Danny.png"/>
 
 
 - 🔭 Atualmente trabalho aos finais de semana com revenda de 🧊;
