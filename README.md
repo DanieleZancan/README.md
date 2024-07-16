@@ -20,5 +20,5 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielezancan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-### Visitor count
+## Visitor count
 <img src="https://profile-counter.glitch.me/vanshkapoor/count.svg"/>
