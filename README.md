@@ -34,7 +34,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 - **🐱 Voluntária no [Gatil Balaio de Gato] (https://www.instagram.com/gatil.balaio.de.gato_birigui/):** Fotógrafa aos domingos, social media e "dev de galera" de 300 gatos resgatados. Aqui uso tecnologia para:
  - Criar sistemas que simplificam o trabalho dos voluntários (ex.: cadastro de animais, relatório de adoção).
  - Gerenciar redes sociais e campanhas de adoção (Canva, métricas de engajamento).
- - Organizar eventos de arrecadação (e convencer pessoas de que gatos pretos dão sorte!).
+ - Organizar eventos de arrecadação (e convencer pessoas de que gatos pretos dão sorte!).  
    
 - **🧊 Empreendedora aos Finais de Semana:** Quando não estou codando, gerencio um negócio de revenda de gelo de sabores. Aprendi a lidar com fornecedores, calcular margens e até convencer clientes que limão-coco é uma combinação digna de Nobel. E sim, isso me ensinou mais sobre problem solving do que qualquer curso.
   
