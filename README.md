@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://github.com/DanieleZancan/DanieleZancan/blob/main/apresentacao.png" width="50px">
+# <img src="https://github.com/DanieleZancan/DanieleZancan/blob/main/apresentacao.png">
 
 ### <span style="color: #D65DB1">Engenheira de Software em formação</span> | <span style="color: #FF6F91">Full Stack com propósito</span> | <span style="color: #FF9671">Apaixonada por tecnologia e gatinhos</span>
 
@@ -38,7 +38,6 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,7 +66,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 ## <span style="color: #845EC2">📫 Vamos Conversar?</span>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-zancan/)
-[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danny.zancan8@gmail.com)
 
 <p style="color: #FF9671; font-size: 16px; margin-top: 20px;">
 "Vamos trocar ideias sobre código, gatinhos ou até sobre os melhores sabores de gelo! ☕🐾"
