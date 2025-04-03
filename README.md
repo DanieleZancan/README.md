@@ -14,7 +14,14 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 <div style="background-color: #F9F87120; padding: 15px; border-radius: 10px; border-left: 4px solid #FFC75F;">
 
 - 🎓 **Estudante de Engenharia de Software** na Unicesumar (fev/2022 - nov/2025).
-- 💻 **Habilidades:** Java, Python, JavaScript, Node.js, HTML/CSS e AWS (em aprendizado contínuo).
+- 💻 **Habilidades:**
+   - Desenvolvimento Web Full Stack;
+   - Banco de Dados;
+   - -Testes e Debbuging;
+   - Trabalho em Equipe;
+   - Resolução de Problemas;
+   - Comunicação Clara;
+   - Adaptabilidade;     
 - 🎯 **Objetivo:** Minha primeira oportunidade como dev júnior, onde eu possa aprender, contribuir e (por que não?) automatizar processos chatos.
 
 </div>
@@ -45,6 +52,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  
 </div>
 
@@ -69,7 +77,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danny.zancan8@gmail.com)
 
 <p style="color: #FF9671; font-size: 16px; margin-top: 20px;">
-"Vamos trocar ideias sobre código, gatinhos ou até sobre os melhores sabores de gelo! ☕🐾"
+"Vamos trocar ideias sobre código, gatinhos ou ideias inovadoras! ☕🐾"
 </p>
 
 </div>
