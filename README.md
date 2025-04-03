@@ -34,7 +34,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
  - Gerenciar redes sociais e campanhas de adoção (Canva, métricas de engajamento).
  - Organizar eventos de arrecadação (e convencer pessoas de que gatos pretos dão sorte!).
 - **🧊 Empreendedora aos Finais de Semana:** Quando não estou codando, gerencio um negócio de revenda de gelo de sabores. Aprendi a lidar com fornecedores, calcular margens e até convencer clientes que limão-coco é uma combinação digna de Nobel. E sim, isso me ensinou mais sobre problem solving do que qualquer curso.
-<p style="font-style: italic; color: #FF9671; text-align: center; margin-top: 20px;">**"Descobri que gerenciar um négocio de revenda tem muito em comum com desenvolver software: ambos exigem atenção aos detalhes, adaptação sob pressão e um bom *feedback loop* com o 'cliente'."**
+**"Descobri que gerenciar um négocio de revenda tem muito em comum com desenvolver software: ambos exigem atenção aos detalhes, adaptação sob pressão e um bom *feedback loop* com o 'cliente'."**
 
 </div>
 
@@ -77,7 +77,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danny.zancan8@gmail.com)
 
 <p style="color: #FF9671; font-size: 16px; margin-top: 20px;">
-**"Vamos trocar ideias sobre código, gatinhos ou ideias inovadoras! ☕🐾"**
+**Vamos trocar ideias sobre código, gatinhos ou ideias inovadoras! ☕🐾**
 </p>
 
 </div>
