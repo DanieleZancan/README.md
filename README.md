@@ -17,7 +17,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 - 💻 **Habilidades:**
    - Desenvolvimento Web Full Stack;
    - Banco de Dados;
-   - -Testes e Debbuging;
+   - Testes e Debbuging;
    - Trabalho em Equipe;
    - Resolução de Problemas;
    - Comunicação Clara;
