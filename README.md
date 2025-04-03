@@ -2,7 +2,7 @@
 
 # <img src="https://github.com/DanieleZancan/DanieleZancan/blob/main/apresentacao.png">
 
-### <span style="color: #D65DB1">Engenheira de Software em formação</span> | <span style="color: #FF6F91">Full Stack com propósito</span> | <span style="color: #FF9671">Apaixonada por tecnologia e gatinhos</span>
+# <span style="color: #D65DB1">Engenheira de Software em formação</span> | <span style="color: #FF6F91">Full Stack com propósito</span> | <span style="color: #FF9671">Apaixonada por tecnologia e gatinhos</span>
 
 </div>
 
