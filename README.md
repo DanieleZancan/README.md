@@ -13,7 +13,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 
 <div style="background-color: #F9F87120; padding: 15px; border-radius: 10px; border-left: 4px solid #FFC75F;">
 
-- 🎓 **Estudante de Engenharia de Software** na Unicesumar (fev/2022 - nov/2025).
+- 🎓 **Estudante de Engenharia de Software** na Unicesumar (fev/2022 - nov/2025).  
 - 💻 **Habilidades:**
    - Desenvolvimento Web Full Stack;
    - Banco de Dados;
@@ -21,7 +21,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
    - Trabalho em Equipe;
    - Resolução de Problemas;
    - Comunicação Clara;
-   - Adaptabilidade;     
+   - Adaptabilidade;  
 - 🎯 **Objetivo:** Minha primeira oportunidade como dev júnior, onde eu possa aprender, contribuir e (por que não?) automatizar processos chatos.
 
 </div>
@@ -32,7 +32,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 - **🐱 Voluntária no [Gatil Balaio de Gato] (https://www.instagram.com/gatil.balaio.de.gato_birigui/):** Fotógrafa aos domingos, social media e "dev de galera" de 300 gatos resgatados. Aqui uso tecnologia para:
  - Criar sistemas que simplificam o trabalho dos voluntários (ex.: cadastro de animais, relatório de adoção).
  - Gerenciar redes sociais e campanhas de adoção (Canva, métricas de engajamento).
- - Organizar eventos de arrecadação (e convencer pessoas de que gatos pretos dão sorte!).
+ - Organizar eventos de arrecadação (e convencer pessoas de que gatos pretos dão sorte!).  
 - **🧊 Empreendedora aos Finais de Semana:** Quando não estou codando, gerencio um negócio de revenda de gelo de sabores. Aprendi a lidar com fornecedores, calcular margens e até convencer clientes que limão-coco é uma combinação digna de Nobel. E sim, isso me ensinou mais sobre problem solving do que qualquer curso.
   
 **"Descobri que gerenciar um négocio de revenda tem muito em comum com desenvolver software: ambos exigem atenção aos detalhes, adaptação sob pressão e um bom *feedback loop* com o 'cliente'."**
