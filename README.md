@@ -14,7 +14,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 <div style="background-color: #F9F87120; padding: 15px; border-radius: 10px; border-left: 4px solid #FFC75F;">
 
 - 🎓 **Estudante de Engenharia de Software** na Unicesumar (fev/2022 - nov/2025).
-- 
+  
 - 💻 **Habilidades:**
    - Desenvolvimento Web Full Stack;
    - Banco de Dados;
@@ -23,7 +23,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
    - Resolução de Problemas;
    - Comunicação Clara;
    - Adaptabilidade;
-   - 
+     
 - 🎯 **Objetivo:** Minha primeira oportunidade como dev júnior, onde eu possa aprender, contribuir e (por que não?) automatizar processos chatos.
 
 </div>
@@ -41,6 +41,7 @@ Sou uma <strong style="color: #D65DB1;">"fazedora" multidisciplinar</strong>: me
 **"Descobri que gerenciar um négocio de revenda tem muito em comum com desenvolver software: ambos exigem atenção aos detalhes, adaptação sob pressão e um bom *feedback loop* com o 'cliente'."**
 
 </div>
+
 
 ## <span style="color: #845EC2">🚀 Tecnologias e Linguagens que Utilizo:</span>
 
